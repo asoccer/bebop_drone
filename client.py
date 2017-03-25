@@ -1,4 +1,4 @@
-import socket
+import socket,sys
 
 def send_message(MESSAGE):
 
@@ -10,7 +10,15 @@ def send_message(MESSAGE):
 	s.connect((host,port))
 	s.send(MESSAGE)
 	data = s.recv(1024)
-	print data
+	return data
 	s.close()
 
-send_message("ayylmao")
+while True:
+	msg = raw_input("Send to Drone\n")
+	if(msg == "stop"):
+		response = send_message(msg)
+		sys.exit()
+		break
+#	print msg
+	response = send_message(msg)
+	print response
