@@ -1,7 +1,7 @@
 # bebop_drone
 bebop repo of my code
 
-#How it works
+# How it works
 
 Windows hosts the "Server.py" file and from cmd line
 
