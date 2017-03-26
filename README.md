@@ -31,4 +31,4 @@ Todo list
    4. Set methods that can take a command from the client and push the identical message to the drone (PREF JS)
 
 
-![Alt Text](http://i.imgur.com/ss4TSk8.gifv)
+![Alt Text](https://github.com/asoccer/bebop_drone/blob/master/images/ss4TSk8.gif)
