@@ -9,6 +9,10 @@ Windows hosts the "Server.py" file and from cmd line
    
 Ubuntu VM then sends client packets to the host machine (windows)    
 
+Visual Example
+
+![Alt Text](https://github.com/asoccer/bebop_drone/blob/master/images/ss4TSk8.gif)
+
 Todo list
 
 # For Client (Python Pref)
@@ -31,4 +35,4 @@ Todo list
    4. Set methods that can take a command from the client and push the identical message to the drone (PREF JS)
 
 
-![Alt Text](https://github.com/asoccer/bebop_drone/blob/master/images/ss4TSk8.gif)
+
