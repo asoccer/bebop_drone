@@ -29,3 +29,6 @@ Todo list
    2. Build a dictionary of "acceptable" messages that are coming from the client. If it isn't in the allowed commands send "wrong command" back to the client
    3. If the command is correct response with the sent command 
    4. Set methods that can take a command from the client and push the identical message to the drone (PREF JS)
+
+
+![Alt Text](http://i.imgur.com/ss4TSk8.gifv)
